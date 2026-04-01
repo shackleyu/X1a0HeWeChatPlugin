@@ -1,42 +1,43 @@
 # X1a0He Plugin 2 for macOS
 
 ![platform](https://img.shields.io/badge/platform-macos-blue.svg)
-[![release](https://img.shields.io/badge/release-v2.1.6-brightgreen.svg)](https://github.com/X1a0He/X1a0HeWeChatPlugin/releases)
-![support](https://img.shields.io/badge/support-%204.1.8.67-blue.svg)
+[![release](https://img.shields.io/badge/release-v2.1.7-brightgreen.svg)](https://github.com/X1a0He/X1a0HeWeChatPlugin/releases)
+![support](https://img.shields.io/badge/support-%204.1.8.97-blue.svg)
 
 macOS 客户端插件
 ![](images/WeChatMainMockUp.png)
 
 
 > ✅ 已在以下环境中测试通过\
-> 💻 设备: M1 Max macOS Tahoe 26.4 (25E246)\
-> 📒 微信版本: 4.1.8.67(36830)\
+> 💻 设备: M1 Max macOS Tahoe 26.5 Beta (25F5042g)\
+> 📒 微信版本: 4.1.8.97(37189)\
 > ⚠️ 不一定会每个版本都支持 Intel\
 > ❌ 不会支持 MAS 版本
 > 
-> MD5: aac1101d810535f8e339b873a4d8d705\
-> SHA1: c8fe7006cb944ce043526d3a53e647bca24f0ebb\
-> SHA256: 422ef769ded1218b9ebd66ef0e7264c527c0051238c90614c39e5546c4fc449d
+> MD5: f11a6794d127e3282523e1727281a02e\
+> SHA1: ef0709be62e1840bed6807e7ac856f7b4de4a138\
+> SHA256: e15000f6f7b77c455d8bd1c80ec95d78edc165a4e3312b6066ddd4c368309216
 
 # 支持版本(点击版本或立即下载即可下载原版)
 [版本记录](https://github.com/X1a0He/X1a0HeWeChatPlugin/issues/43)
 
-|                                                版本                                                |  版本号  | 支持 | Arm | Intel | MAS | 下载原版                                                                                         |
-|:------------------------------------------------------------------------------------------------:|:-----:|:--:|:---:|:-----:|:---:|----------------------------------------------------------------------------------------------|
-| [4.1.7.56](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.7.56_34878.dmg) | 34878 | ✅  |  ✅  |   ✅   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.7.56_34878.dmg) |
-| [4.1.7.57](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.7.57_34888.dmg) | 34888 | ✅  |  ✅  |   ✅   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.7.57_34888.dmg) |
-| [4.1.8.21](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.21_36420.dmg) | 36420 | ✅  |  ✅  |   ❌   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.21_36420.dmg) |
-| [4.1.8.22](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.22_36451.dmg) | 36451 | ✅  |  ✅  |   ❌   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.22_36451.dmg) |
-| [4.1.8.23](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.23_36507.dmg) | 36507 | ✅  |  ✅  |   ❌   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.23_36507.dmg) |
-| [4.1.8.26](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.26_36552.dmg) | 36552 | ✅  |  ✅  |   ❌   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.26_36552.dmg) |
-| [4.1.8.27](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.27_36559.dmg) | 36559 | ✅  |  ✅  |   ❌   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.27_36559.dmg) |
-| [4.1.8.28](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.28_36571.dmg) | 36571 | ✅  |  ✅  |   ❌   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.28_36571.dmg) |
-| [4.1.8.29](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.29_36603.dmg) | 36603 | ✅  |  ✅  |   ❌   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.29_36603.dmg) |
-| [4.1.8.50](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.50_36728.dmg) | 36728 | ✅  |  ✅  |   ❌   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.50_36728.dmg) |
-| [4.1.8.51](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.51_36777.dmg) | 36777 | ✅  |  ✅  |   ❌   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.51_36777.dmg) |
-| [4.1.8.52](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.52_36830.dmg) | 36830 | ✅  |  ✅  |   ❌   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.52_36830.dmg) |
-| [4.1.8.66](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.66_36675.dmg) | 36675 | ✅  |  ✅  |   ❌   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.66_36675.dmg) |
-| [4.1.8.67](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.67_36677.dmg) | 36677 | ✅  |  ✅  |   ❌   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.67_36677.dmg) |
+|                                                版本                                                 |  版本号  | 支持 | Arm | Intel | MAS | 下载原版                                                                                         |
+|:-------------------------------------------------------------------------------------------------:|:-----:|:--:|:---:|:-----:|:---:|----------------------------------------------------------------------------------------------|
+| [4.1.7.56](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.7.56_34878.dmg)  | 34878 | ✅  |  ✅  |   ✅   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.7.56_34878.dmg) |
+| [4.1.7.57](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.7.57_34888.dmg)  | 34888 | ✅  |  ✅  |   ✅   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.7.57_34888.dmg) |
+| [4.1.8.21](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.21_36420.dmg)  | 36420 | ✅  |  ✅  |   ❌   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.21_36420.dmg) |
+| [4.1.8.22](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.22_36451.dmg)  | 36451 | ✅  |  ✅  |   ❌   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.22_36451.dmg) |
+| [4.1.8.23](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.23_36507.dmg)  | 36507 | ✅  |  ✅  |   ❌   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.23_36507.dmg) |
+| [4.1.8.26](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.26_36552.dmg)  | 36552 | ✅  |  ✅  |   ❌   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.26_36552.dmg) |
+| [4.1.8.27](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.27_36559.dmg)  | 36559 | ✅  |  ✅  |   ❌   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.27_36559.dmg) |
+| [4.1.8.28](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.28_36571.dmg)  | 36571 | ✅  |  ✅  |   ❌   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.28_36571.dmg) |
+| [4.1.8.29](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.29_36603.dmg)  | 36603 | ✅  |  ✅  |   ❌   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.29_36603.dmg) |
+| [4.1.8.50](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.50_36728.dmg)  | 36728 | ✅  |  ✅  |   ❌   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.50_36728.dmg) |
+| [4.1.8.51](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.51_36777.dmg)  | 36777 | ✅  |  ✅  |   ❌   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.51_36777.dmg) |
+| [4.1.8.52](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.52_36830.dmg)  | 36830 | ✅  |  ✅  |   ❌   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.52_36830.dmg) |
+| [4.1.8.66](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.66_36675.dmg)  | 36675 | ✅  |  ✅  |   ❌   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.66_36675.dmg) |
+| [4.1.8.67](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.67_36677.dmg)  | 36677 | ✅  |  ✅  |   ❌   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.67_36677.dmg) |
+| [4.1.8.97](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.97_37189.dmg)  | 37189 | ✅  |  ✅  |   ❌   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.97_37189.dmg) |
 
 # 目录
 
@@ -88,13 +89,9 @@ sudo sh install.sh
 
 - **更多更新日志，请查看 [更新日志](change-log.md)**
 
-### 2.1.6 (2026.03.12)
+### 2.1.7 (2026.04.01)
 
-1. 支持最新 4.1.8.22 (36451)
-2. 支持最新 4.1.8.23 (36507)
-3. 支持最新 4.1.8.51 (36777)
-4. 不再支持 Intel 机型
-
+1. 支持最新 4.1.8.97 (37189)
 
 <a href="https://star-history.com/#X1a0He/X1a0HeWeChatPlugin&Timeline">
  <picture>
