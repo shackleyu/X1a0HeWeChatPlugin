@@ -17,6 +17,8 @@ macOS 客户端插件
 > MD5: f11a6794d127e3282523e1727281a02e\
 > SHA1: ef0709be62e1840bed6807e7ac856f7b4de4a138\
 > SHA256: e15000f6f7b77c455d8bd1c80ec95d78edc165a4e3312b6066ddd4c368309216
+> 
+> 安装包 pkg SHA 256: 5d1af01d81d6e5c61d7014a954c00f44476691086b45ba72701832205ef44db9
 
 # 支持版本(点击版本或立即下载即可下载原版)
 [版本记录](https://github.com/X1a0He/X1a0HeWeChatPlugin/issues/43)
