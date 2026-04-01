@@ -58,6 +58,9 @@ macOS 客户端插件
 
 ## 必要步骤
 
+### 推荐：使用 pkg 一键安装
+![](images/pkg-installer.png)
+
 ### 已安装 Git 的用户
 
 **Mac 上安装了 Git 的可以直接克隆仓库后执行脚本**
