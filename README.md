@@ -1,7 +1,7 @@
 # X1a0He Plugin 2 for macOS
 
 ![platform](https://img.shields.io/badge/platform-macos-blue.svg)
-[![release](https://img.shields.io/badge/release-v2.1.7-brightgreen.svg)](https://github.com/X1a0He/X1a0HeWeChatPlugin/releases)
+[![release](https://img.shields.io/badge/release-v2.1.8-brightgreen.svg)](https://github.com/X1a0He/X1a0HeWeChatPlugin/releases)
 ![support](https://img.shields.io/badge/support-%204.1.8.98-blue.svg)
 
 macOS 客户端插件
@@ -14,11 +14,11 @@ macOS 客户端插件
 > ⚠️ 不一定会每个版本都支持 Intel\
 > ❌ 不会支持 MAS 版本
 > 
-> MD5: f11a6794d127e3282523e1727281a02e\
-> SHA1: ef0709be62e1840bed6807e7ac856f7b4de4a138\
-> SHA256: e15000f6f7b77c455d8bd1c80ec95d78edc165a4e3312b6066ddd4c368309216
+> MD5: 6094cae5e9714adfe849109d0cf104ca\
+> SHA1: 45366ae49293169b185977fe516fcb312802d8b6\
+> SHA256: e022f6586fe1f3b1ab8bd026e02e53393937738fd8384e103a156881b6f92164
 > 
-> 安装包 pkg SHA 256: 5d1af01d81d6e5c61d7014a954c00f44476691086b45ba72701832205ef44db9
+> 安装包 pkg SHA 256: 0b32505591ded95e2645ea84bca9f8cffff2dd145e3197d9e36694b61073cd4b
 
 # 支持版本(点击版本或立即下载即可下载原版)
 [版本记录](https://github.com/X1a0He/X1a0HeWeChatPlugin/issues/43)
@@ -95,10 +95,9 @@ sudo sh install.sh
 
 - **更多更新日志，请查看 [更新日志](change-log.md)**
 
-### 2.1.7 (2026.04.01)
+### 2.1.8 (2026.04.02)
 
-1. 支持最新 4.1.8.97 (37189)
-2. 支持最新 4.1.8.98 (37222)
+1. 修复了启动崩溃的问题
 
 <a href="https://star-history.com/#X1a0He/X1a0HeWeChatPlugin&Timeline">
  <picture>
