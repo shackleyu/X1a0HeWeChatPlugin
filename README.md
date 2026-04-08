@@ -2,7 +2,7 @@
 
 ![platform](https://img.shields.io/badge/platform-macos-blue.svg)
 [![release](https://img.shields.io/badge/release-v2.1.8-brightgreen.svg)](https://github.com/X1a0He/X1a0HeWeChatPlugin/releases)
-![support](https://img.shields.io/badge/support-%204.1.8.103-blue.svg)
+![support](https://img.shields.io/badge/support-%204.1.8.104-blue.svg)
 
 macOS 客户端插件
 ![](images/WeChatMainMockUp.png)
@@ -43,7 +43,7 @@ macOS 客户端插件
 |  [4.1.8.98](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.98_37222.dmg)  | 37222 | ✅  |  ✅  |   ❌   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.98_37222.dmg)  |
 | [4.1.8.100](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.100_37261.dmg) | 37261 | ✅  |  ✅  |   ❌   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.100_37261.dmg) |
 | [4.1.8.101](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.101_37293.dmg) | 37293 | ✅  |  ✅  |   ❌   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.101_37293.dmg) |
-| [4.1.8.103](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.103_37303.dmg) | 37303 | ✅  |  ✅  |   ❌   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.103_37303.dmg) |
+| [4.1.8.104](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.104_37303.dmg) | 37303 | ✅  |  ✅  |   ❌   |  ❌  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.104_37303.dmg) |
 
 # 目录
 
