@@ -1,8 +1,8 @@
 # X1a0He Plugin 2 for macOS
 
 ![platform](https://img.shields.io/badge/platform-macos-blue.svg)
-[![release](https://img.shields.io/badge/release-v2.2.0-brightgreen.svg)](https://github.com/X1a0He/X1a0HeWeChatPlugin/releases)
-![support](https://img.shields.io/badge/support-%204.1.9.21-blue.svg)
+[![release](https://img.shields.io/badge/release-v2.2.1-brightgreen.svg)](https://github.com/X1a0He/X1a0HeWeChatPlugin/releases)
+![support](https://img.shields.io/badge/support-%204.1.9.22-blue.svg)
 
 macOS 客户端插件
 ![](images/WeChatMainMockUp.png)
@@ -10,15 +10,15 @@ macOS 客户端插件
 
 > ✅ 已在以下环境中测试通过\
 > 💻 设备: M1 Max macOS Tahoe 26.5 Beta (25F5053d)\
-> 📒 微信版本: 4.1.9.21(37997)\
+> 📒 微信版本: 4.1.9.22(38023)\
 > ❌ 不支持 Intel 版本\
 > ❌ 不支持 MAS 版本
 > 
-> MD5: fae6a68b8356ebb9adf4830d28ce8fa5\
-> SHA1: 863cc2e7e3e3985220f4348974225699997da0c7\
-> SHA256: f3a1f2b6829ea3d8543b3e5dd3009bb19b1822fb8f1c3648d125f63de7dc7a7c
+> MD5: bf1c3020a1c414261536972fb79efa9c\
+> SHA1: b88991926866bdd83ea416c9b2955d667353d648\
+> SHA256: 6db1c225876932923afea6fc6a2a76296c5ceefe4e895df5fd6d6ae696192143
 > 
-> 安装包 pkg SHA 256: 25839f0c0f51099220acfba9b8170a7486539e4f7d92ec4d9dd4cbc0c7f800fc
+> 安装包 pkg SHA 256: bc2f51eea257a73761b5d9ea45ed19d4840a7863d581236caa849b46c854df92
 
 # 支持版本(点击版本或立即下载即可下载原版)
 [版本记录](https://github.com/X1a0He/X1a0HeWeChatPlugin/issues/43)
@@ -47,6 +47,7 @@ macOS 客户端插件
 | [4.1.8.105](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.105_37331.dmg) | 37331 | ✅  |  ✅  |   ❌   | 2.1.9  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.105_37331.dmg) |
 | [4.1.8.106](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.106_37335.dmg) | 37335 | ✅  |  ✅  |   ❌   | 2.1.9  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.8.106_37335.dmg) |
 |  [4.1.9.21](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.9.21_37997.dmg)  | 37997 | ✅  |  ✅  |   ❌   | 2.2.0  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.9.21_37997.dmg)  |
+|  [4.1.9.22](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.9.22_38023.dmg)  | 38023 | ✅  |  ✅  |   ❌   | 2.2.0  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.9.22_38023.dmg)  |
 
 # 目录
 
@@ -101,10 +102,12 @@ sudo sh install.sh
 
 - **更多更新日志，请查看 [更新日志](change-log.md)**
 
-### 2.2.0 (2026.04.17)
+### 2.2.1 (2026.04.18)
 
-1. 支持 4.1.9.21(37997)
-2. 由于 4.1.9.x 版本微信对部分特征做了改动，2.2.0插件不再支持 4.1.8.x 版本，4.1.8.x 请使用 2.1.9
+1. 支持 4.1.9.22(38023)
+2. 修复了 2.2.0 版本中启动崩溃、删除媒体崩溃、撤回消息偶发崩溃的问题
+3. 新增 删除插件缓存 的菜单项
+4. 修复了菜单栏不显示菜单名但实际上可以交互的问题
 
 <a href="https://star-history.com/#X1a0He/X1a0HeWeChatPlugin&Timeline">
  <picture>
