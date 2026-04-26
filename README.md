@@ -1,24 +1,24 @@
 # X1a0He Plugin 2 for macOS
 
 ![platform](https://img.shields.io/badge/platform-macos-blue.svg)
-[![release](https://img.shields.io/badge/release-v2.3.0-brightgreen.svg)](https://github.com/X1a0He/X1a0HeWeChatPlugin/releases)
-![support](https://img.shields.io/badge/support-%204.1.9.26-blue.svg)
+[![release](https://img.shields.io/badge/release-v2.3.1-brightgreen.svg)](https://github.com/X1a0He/X1a0HeWeChatPlugin/releases)
+![support](https://img.shields.io/badge/support-%204.1.9.29-blue.svg)
 
 macOS 客户端插件
 ![](images/WeChatMainMockUp.png)
 
 
 > ✅ 已在以下环境中测试通过\
-> 💻 设备: M1 Max macOS Tahoe 26.5 Beta (25F5053d)\
-> 📒 微信版本: 4.1.9.26(38109)\
+> 💻 设备: M1 Max macOS Tahoe 26.5 Beta (25F5058e)\
+> 📒 微信版本: 4.1.9.29(38164)\
 > ❌ 不支持 Intel 版本\
 > ❌ 不支持 MAS 版本
 > 
-> MD5: 5ab4dc09440b3d6ddc857c0dcf6f5b49\
-> SHA1: 807c39c891b4fb3088a0718329b041bc908fd739\
-> SHA256: 06daf459c1f50e108587110ed87bf609053cacb82435ab2f37baaddf429e3b3c
+> MD5: 98d615df8393964712d27a51f6c55a5e\
+> SHA1: 7183f5d892ac29c1bd16102d5ac48d7d130124ab\
+> SHA256: e720a7c931eedb78be0bd5c7158aa0ee7f94173fe891957795f2d6b9f2eaf289
 > 
-> 安装包 pkg SHA 256: e98e05b8c04b2a43164fe1a197a7b795c772cce64ea3131c2f987b1f8e02d77d
+> 安装包 pkg SHA 256: 846e0ce2512451dbd88ce35958feff1669b0f9906104a4b461c36cebe099fbae
 
 # 支持版本(点击版本或立即下载即可下载原版)
 [版本记录](https://github.com/X1a0He/X1a0HeWeChatPlugin/issues/43)
@@ -50,6 +50,8 @@ macOS 客户端插件
 |  [4.1.9.22](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.9.22_38023.dmg)  | 38023 | ✅  |  ✅  |   ❌   | 2.2.0  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.9.22_38023.dmg)  |
 |  [4.1.9.23](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.9.23_38031.dmg)  | 38031 | ✅  |  ✅  |   ❌   | 2.3.0  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.9.23_38031.dmg)  |
 |  [4.1.9.26](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.9.26_38109.dmg)  | 38109 | ✅  |  ✅  |   ❌   | 2.3.0  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.9.26_38109.dmg)  |
+|  [4.1.9.27](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.9.27_38157.dmg)  | 38157 | ✅  |  ✅  |   ❌   | 2.3.1  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.9.27_38157.dmg)  |
+|  [4.1.9.29](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.9.29_38164.dmg)  | 38164 | ✅  |  ✅  |   ❌   | 2.3.1  | [立即下载](https://dldir1v6.qq.com/weixin/Universal/Mac/xWeChatMac_universal_4.1.9.29_38164.dmg)  |
 
 # 目录
 
@@ -104,10 +106,10 @@ sudo sh install.sh
 
 - **更多更新日志，请查看 [更新日志](change-log.md)**
 
-### 2.3.0 (2026.04.22)
+### 2.3.1 (2026.04.26)
 
-1. 支持 4.1.9.26(38109)
-2. 自定义撤回短语中新增 {from} 插槽，支持显示发送者备注
+1. 支持 4.1.9.29(38164)
+2. 添加插件加载窗口并优化关于插件窗口
 
 <a href="https://star-history.com/#X1a0He/X1a0HeWeChatPlugin&Timeline">
  <picture>
